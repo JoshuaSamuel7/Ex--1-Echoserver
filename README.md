@@ -61,9 +61,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ```
 ## OUTPUT:
-Client:
+### Client:
 ##![client](https://github.com/JoshuaSamuel7/Ex--1-Echoserver/assets/118343296/501596a8-0c41-424b-9664-edc5c34acc13)
-Server:
+### Server:
 ![server](https://github.com/JoshuaSamuel7/Ex--1-Echoserver/assets/118343296/52322370-9545-4aeb-af64-a014f1d3febc)
 
 
